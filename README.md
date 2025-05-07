@@ -38,7 +38,6 @@ In Python, **everything is an object** — even primitive types.
 - A **variable** is a **reference (pointer)** to an object in memory.
 - This means variables can access the object’s methods and properties.
 - Variables are **dynamically typed** and **overwritable**.
-  - 👉 Unlike GoLang, where variable types and mutability are stricter.
 
 ---
 
