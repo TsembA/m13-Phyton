@@ -33,7 +33,6 @@ Python supports various data types. Here are the most common ones you'll encount
 
 ## 🧾 Are Variables Objects in Python?
 
-Yes!  
 In Python, **everything is an object** — even primitive types.
 
 - A **variable** is a **reference (pointer)** to an object in memory.
